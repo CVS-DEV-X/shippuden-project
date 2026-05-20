@@ -13,7 +13,7 @@ Programa , promovido por mim baseado no projeto Devlinks Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="Shippuden projetct" src=".github/preview1.jpg" width="500px">
+  <img alt="Shippuden projetct" src=".github/preview1.jpg" width="400px">
 </p>
 
 ## 🚀 Tecnologias
